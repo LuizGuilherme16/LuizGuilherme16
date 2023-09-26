@@ -1,6 +1,6 @@
 ### Olá! Eu sou Luiz Guilherme 👋
 
-- 🔭 Hoje trabalho como Suporte Técnico 
+- 🔭 trabalhando como Suporte Técnico 
 - 🌱 Estudando Front-End
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGuilherme16&show_icons=true&theme=radical)
